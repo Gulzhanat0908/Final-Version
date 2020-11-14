@@ -8,7 +8,8 @@ Currently, Spotify is important part of the industry. This dataset allows us to 
 Content:
 This dataset contains the daily ranking of the 200 most listened songs in all countries from 2019 by Spotify users. It contains 1000 rows and 17 columns, which comprises various songs and artists.
 
-The data spans from 1st January 2019 to 1st January 2020. It has been collected from Spotify's regional chart data.
+The data spans from 1st January 2019 to 1st January 2020. Project completed with help of dataset, which available on Kaggle(www.kaggle.com/shadey/spotify)
+The main library used for analysis is Pandas.
 
 Inspiration
 What songs were trending?
@@ -17,3 +18,4 @@ Do people listen to the same popular songs in countries far from each other?
 
 To start out, you can take a look into a notebook I have made in order to read the data, filter data from a song, plot which general view of the data.
 
+Thank you.
