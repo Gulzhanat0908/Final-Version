@@ -11,7 +11,7 @@ This dataset contains the daily ranking of the 200 most listened songs in all co
 The data spans from 1st January 2019 to 1st January 2020. Project completed with help of dataset, which available on Kaggle(www.kaggle.com/shadey/spotify)
 The main library used for analysis is Pandas.
 
-Inspiration
+Inspiration:
 What songs were trending?
 Which artists are more valuable?
 Do people listen to the same popular songs in countries far from each other?
